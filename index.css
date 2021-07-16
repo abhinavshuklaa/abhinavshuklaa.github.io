@@ -5,6 +5,9 @@ body {
 #nav{
   background-color: #19584C;
 }
+#git{
+  height: 170px;
+}
  #jumbo{
     /* background-image: url(https://i.pinimg.com/originals/2d/0b/b7/2d0bb7ef8c9fd7ccffed15d67aea76ef.jpg); */
    background-color: #2B8678;
@@ -54,9 +57,9 @@ justify-content: center
   padding: 2px;
 
 }
-.slider-text3 {
+/* .slider-text3 {
   background: rgb(226, 60, 60);
-}
+} */
 @keyframes slide {
   0% {margin-top:-300px;}
   5% {margin-top:-200px;}
